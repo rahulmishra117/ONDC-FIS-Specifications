@@ -1,0 +1,105 @@
+/* Fix for Swagger UI text visibility while maintaining original colors */
+.swagger-ui .info h1,
+.swagger-ui .info h2,
+.swagger-ui .info h3,
+.swagger-ui .info h4,
+.swagger-ui .info h5,
+.swagger-ui .info p,
+.swagger-ui .info div,
+.swagger-ui .info span {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .scheme-container .schemes > label {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .opblock .opblock-summary-description,
+.swagger-ui .opblock .opblock-summary-path,
+.swagger-ui .opblock .opblock-summary-path__deprecated {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .opblock-description-wrapper p,
+.swagger-ui .opblock-external-docs-wrapper p,
+.swagger-ui .opblock-title_normal p {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .parameter__name {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .parameter__type {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .response-col_status {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .response-col_description__inner div {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .model .property-row .property-description {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .btn {
+  color: #fff !important;
+}
+
+.swagger-ui .execute-wrapper {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .opblock-section-header h4 {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .parameter__name,
+.swagger-ui .parameter__type,
+.swagger-ui .parameter__deprecated {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .parameter__description {
+  color: #6b7280 !important;
+}
+
+.swagger-ui .response-col_description__inner {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .response-col_description__inner p {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .model-title {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .model .property-row .property-name {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .model .property-row .property-type {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .model .property-row .property-description {
+  color: #6b7280 !important;
+}
+
+.swagger-ui .opblock-summary .opblock-summary-description {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .opblock-summary .opblock-summary-path {
+  color: #3b4151 !important;
+}
+
+.swagger-ui .opblock-summary .opblock-summary-path__deprecated {
+  color: #3b4151 !important;
+}
