@@ -2,7 +2,7 @@
 
 A modern, user-friendly web application for exploring ONDC Financial Services specifications and documentation.
 
-## �� Features
+## Features
 
 - **Modern UI/UX**: Built with React, TypeScript, and Tailwind CSS
 - **Interactive API Documentation**: Integrated Swagger UI for exploring APIs
@@ -11,7 +11,7 @@ A modern, user-friendly web application for exploring ONDC Financial Services sp
 - **Type Safety**: Full TypeScript support for better development experience
 - **Performance Optimized**: Built with Vite for fast development and builds
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React 19 + TypeScript
 - **Styling**: Tailwind CSS
@@ -20,7 +20,7 @@ A modern, user-friendly web application for exploring ONDC Financial Services sp
 - **Icons**: Lucide React
 - **HTTP Client**: Axios
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -40,7 +40,7 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -62,7 +62,7 @@ src/
 └── index.css           # Global styles
 ```
 
-## 🎯 Key Improvements Over Legacy Version
+## Key Improvements Over Legacy Version
 
 ### 1. **Modern Architecture**
 - Component-based architecture with React
@@ -93,7 +93,7 @@ src/
 - Secure API calls
 - Proper error handling
 
-## 🔧 Development
+## Development
 
 ### Available Scripts
 
@@ -109,14 +109,14 @@ src/
 3. Create hooks in `src/hooks/` for data management
 4. Add services in `src/services/` for API calls
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive and works on:
 - Desktop (1200px+)
 - Tablet (768px - 1199px)
 - Mobile (320px - 767px)
 
-## 🎨 Customization
+## Customization
 
 ### Theming
 The application uses Tailwind CSS with custom color schemes. You can modify colors in `tailwind.config.js`.
@@ -124,7 +124,7 @@ The application uses Tailwind CSS with custom color schemes. You can modify colo
 ### Components
 All components are modular and can be easily customized or extended.
 
-## 🚀 Deployment
+## Deployment
 
 ### Build for Production
 ```bash
@@ -138,7 +138,7 @@ The built files in `dist/` can be deployed to any static hosting service like:
 - GitHub Pages
 - AWS S3
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -146,11 +146,11 @@ The built files in `dist/` can be deployed to any static hosting service like:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
-## 🔗 Related Links
+## Related Links
 
 - [ONDC Official Website](https://ondc.org/)
 - [ONDC GitHub](https://github.com/ONDC-Official)
